@@ -20,7 +20,6 @@ struct Tiket
 Tiket tiket[maks];  // nyimpen data tiket
 int tiketCount = 0; // jumlah yang udah dipesen
 
-//TAZKYA
 void registerUser()
 {
     system("cls");
